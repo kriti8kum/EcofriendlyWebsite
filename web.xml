@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
+  <display-name>eco-friendly</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>contain.html</welcome-file>
+    <welcome-file>sign.html</welcome-file>
+    <welcome-file>women.html</welcome-file>
+    <welcome-file>Diary.html</welcome-file>
+    <welcome-file>rakhi.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>com</display-name>
+    <servlet-name>com</servlet-name>
+    <servlet-class>eco.friendly.com</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>com</servlet-name>
+    <url-pattern>/com</url-pattern>
+  </servlet-mapping>
+</web-app>
