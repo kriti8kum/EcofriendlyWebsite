@@ -1,4 +1,4 @@
-he eco-friendly website aims to serve as a platform to support local communities and promote environmental sustainability. 
+The eco-friendly website aims to serve as a platform to support local communities and promote environmental sustainability. 
 It provides users with resources, information,
 and tools to engage in eco-friendly practices and
 contribute to the well-being of their local environment.
